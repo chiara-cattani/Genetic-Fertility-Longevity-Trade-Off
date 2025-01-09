@@ -1,4 +1,7 @@
-Folders:
+# Description
+
+
+## Folders structure:
 
 raw/: Contains raw datasets (pgenscore4e_r.dta, randhrs1992_2020v1.dta,
  	trk2020tr_r.dta).
