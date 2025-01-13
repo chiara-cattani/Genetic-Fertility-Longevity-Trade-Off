@@ -3,11 +3,17 @@
 ## Description
 This project explores the evolutionary trade-off between fertility and longevity, focusing on how genetic, demographic, and socio-behavioral factors shape human lifespan. Using survival analysis techniques and polygenic risk scores, the study delves into the complex interplay of reproductive behavior, genetic predispositions, and socio-demographic factors.
 
+## Key Findings
+- Women with two or three children had the lowest mortality risk, while childlessness or having more than three children increased risk.
+- Education was a strong predictor of longevity, with higher levels linked to lower mortality.
+- Genetic predispositions influenced survival: longevity genes improved lifespan, while fertility genes increased risks.
+- Socio-demographic factors, like marital status and education, shaped the fertility-longevity trade-off differently for men and women.
+
 ## Key Features
 - **Data-Driven Insights**: Analyze the relationships between fertility, longevity, and socio-demographic variables.
 - **Genetic Factors**: Use polygenic risk scores to assess predispositions for longevity and fertility.
 - **Statistical Methods**: Kaplan-Meier survival analysis and Cox proportional hazards models.
-- **Visual Outputs**: A range of plots and tables for exploratory analysis and result visualization.
+- **Visual Outputs**: Detailed Kaplan-Meier curves, scatterplots of polygenic scores, density plots, bar charts, and summary tables of key statistics and hazard ratios.
 
 ---
 
