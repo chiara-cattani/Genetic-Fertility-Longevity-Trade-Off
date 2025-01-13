@@ -40,8 +40,8 @@ This project explores the evolutionary trade-off between fertility and longevity
 ![Scatterplot PRS](output/prs_plot.png)
 
 ### Kaplan-Meier Survival Curves
-  ![Kaplan-Meier Survival Curve by Sex and Fertility PRS](output/kaplan_meier_prs_f.png)  
-  ![Kaplan-Meier Survival Curve by Sex and Longevity PRS](output/skaplan_meier_prs_l.png)
+  ![Kaplan-Meier Survival Curve by Sex and Fertility PRS](output/kaplan_meier_prs_f.png)
+  ![Kaplan-Meier Survival Curve by Sex and Longevity PRS](output/kaplan_meier_prs_l.png)
 ---
 
 ## Getting Started
