@@ -1,13 +1,19 @@
 # Investigating the Genetic and Behavioral Components of the Fertility-Longevity Trade-Off
 
+---
+
 ## Description
 This project explores the evolutionary trade-off between fertility and longevity, focusing on how genetic, demographic, and socio-behavioral factors shape human lifespan. Using survival analysis techniques and polygenic risk scores, the study delves into the complex interplay of reproductive behavior, genetic predispositions, and socio-demographic factors.
+
+---
 
 ## Key Findings
 - Women with two or three children had the lowest mortality risk, while childlessness or having more than three children increased risk.
 - Education was a strong predictor of longevity, with higher levels linked to lower mortality.
 - Genetic predispositions influenced survival: longevity genes improved lifespan, while fertility genes increased risks.
 - Socio-demographic factors, like marital status and education, shaped the fertility-longevity trade-off differently for men and women.
+
+---
 
 ## Key Features
 - **Data-Driven Insights**: Analyze the relationships between fertility, longevity, and socio-demographic variables.
@@ -48,6 +54,7 @@ This project explores the evolutionary trade-off between fertility and longevity
 ### Kaplan-Meier Survival Curves
   ![Kaplan-Meier Survival Curve by Sex and Fertility PRS](output/kaplan_meier_prs_f.png)
   ![Kaplan-Meier Survival Curve by Sex and Longevity PRS](output/kaplan_meier_prs_l.png)
+
 ---
 
 ## Getting Started
